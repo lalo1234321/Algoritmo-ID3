@@ -1,0 +1,100 @@
+
+.mainContainer{
+    text-align: center;
+    width: auto;
+    position: relative;
+}
+
+.cowContainer{
+    opacity: 0.2;
+}
+
+.centerImage{
+    position: absolute;
+    width: 35%;
+    height: 35%;
+    top: 27%;
+    left: 33%;
+}
+.whoWeAre{
+    font-weight: bold;
+    font-size: 350%;
+    position: absolute;
+    left: 40%;
+    top: 5%;
+}
+.mission{
+    font-weight: bold;
+    font-size: 350%;
+    position: absolute;
+    left: 20%;
+    top: 25%;
+}
+.experience{
+    font-weight: bold;
+    font-size: 350%;
+    position: absolute;
+    left: 67%;
+    top: 25%;
+}
+.vision{
+    font-weight: bold;
+    font-size: 350%;
+    position: absolute;
+    left: 20%;
+    top: 50%;
+}
+.values{
+    font-weight: bold;
+    font-size: 350%;
+    position: absolute;
+    left: 67%;
+    top: 50%;
+}
+.secondParagraph{
+    font-size: 150%;
+    font-weight: 100;
+    position: absolute;
+    top: 12%;
+    width: 80%;
+    word-spacing:10px;
+    margin-left: 10%;
+}
+.missionParagraph{
+    font-size: 150%;
+    font-weight: 100;
+    position: absolute;
+    top: 30%;
+    width: 30%;
+    word-spacing:10px;
+    margin-left: 10%;
+}
+.experienceParagraph{
+    font-size: 150%;
+    font-weight: 100;
+    position: absolute;
+    top: 30%;
+    width: 30%;
+    left: 49%;
+    word-spacing:10px;
+    margin-left: 10%;
+}
+.visionParagraph{
+    font-size: 150%;
+    font-weight: 100;
+    position: absolute;
+    top: 55%;
+    width: 30%;
+    word-spacing:10px;
+    margin-left: 10%;
+}
+.valuesParagraph{
+    font-size: 150%;
+    font-weight: 100;
+    position: absolute;
+    top: 55%;
+    width: 30%;
+    left: 49%;
+    word-spacing:10px;
+    margin-left: 10%;
+}
